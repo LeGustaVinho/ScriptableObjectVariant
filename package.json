@@ -1,6 +1,6 @@
 {
-    "name": "ch.giezi.tools.scriptableobjectvariant",
-    "displayName": "Giezi's Scriptable Object Variant",
+    "name": "com.legustavinho.legendary-tools-scriptable-object-variant",
+    "displayName": "Legendary Tools - Scriptable Object Variant",
     "author": {
         "name": "Jo Giezi",
         "url": "https://github.com/GieziJo/ScriptableObjectVariant"
@@ -13,6 +13,11 @@
         "ScriptableObject",
         "Variant"
     ],
+    "documentationUrl": "https://github.com/LeGustaVinho/ScriptableObjectVariant/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LeGustaVinho/ScriptableObjectVariant.git"
+    },
     "category": "Editor",
     "type": "Editor",
     "dependencies": {

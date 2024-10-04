@@ -1,0 +1,20 @@
+{
+    "name": "LegendaryTools.ScriptableObjectVariant.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:df9ce67d262ae394e9ec9d98b2a2f681"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ODIN_INSPECTOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,18 +1,16 @@
 {
-    "name": "ch.giezi.tools.ScriptableObjectVariant.editor",
+    "name": "LegendaryTools.ScriptableObjectVariant",
     "rootNamespace": "",
-    "references": [
-        "GUID:6e24b47e76ea62f4bb81b0aae4434fc4"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "ODIN_INSPECTOR"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }
